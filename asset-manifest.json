@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/india-constituencies-game/static/css/main.bf639f62.css",
-    "main.js": "/india-constituencies-game/static/js/main.1d8189e7.js",
+    "main.js": "/india-constituencies-game/static/js/main.85d723b5.js",
     "static/js/453.db2b768d.chunk.js": "/india-constituencies-game/static/js/453.db2b768d.chunk.js",
     "index.html": "/india-constituencies-game/index.html",
     "main.bf639f62.css.map": "/india-constituencies-game/static/css/main.bf639f62.css.map",
-    "main.1d8189e7.js.map": "/india-constituencies-game/static/js/main.1d8189e7.js.map",
+    "main.85d723b5.js.map": "/india-constituencies-game/static/js/main.85d723b5.js.map",
     "453.db2b768d.chunk.js.map": "/india-constituencies-game/static/js/453.db2b768d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf639f62.css",
-    "static/js/main.1d8189e7.js"
+    "static/js/main.85d723b5.js"
   ]
 }
