@@ -29,8 +29,8 @@ const ConstituencyGame: React.FC = () => {
 
   useEffect(() => {
     Promise.all([
-      fetch("/constituencies_formatted.json"),
-      fetch("/state_to_vernacular.json"),
+      fetch(`${process.env.PUBLIC_URL}/constituencies_formatted.json`),
+      fetch(`${process.env.PUBLIC_URL}/state_to_vernacular.json`),
     ])
       .then(([constituenciesResponse, vernacularResponse]) =>
         Promise.all([constituenciesResponse.json(), vernacularResponse.json()])
@@ -131,7 +131,11 @@ const ConstituencyGame: React.FC = () => {
           marginBottom: 20,
         }}
       >
-        <Image src="/emblem_of_india.svg" alt="Emblem of India" w={100} />
+        <Image
+          src={`${process.env.PUBLIC_URL}/emblem_of_india.svg`}
+          alt="Emblem of India"
+          w={100}
+        />
         <Title order={1} style={{ marginBottom: "1rem" }}>
           Guess the Lok Sabha Constituencies!
         </Title>
