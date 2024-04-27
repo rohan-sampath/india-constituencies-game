@@ -29,8 +29,8 @@ const ConstituencyGame: React.FC = () => {
 
   useEffect(() => {
     Promise.all([
-      fetch(`${process.env.PUBLIC_URL}/constituencies_formatted.json`),
-      fetch(`${process.env.PUBLIC_URL}/state_to_vernacular.json`),
+      fetch(`${process.env.PUBLIC_URL}/constituencies_formatted_v1-2.json`),
+      fetch(`${process.env.PUBLIC_URL}/state_to_vernacular_v1-1.json`),
     ])
       .then(([constituenciesResponse, vernacularResponse]) =>
         Promise.all([constituenciesResponse.json(), vernacularResponse.json()])
