@@ -1,0 +1,3260 @@
+[
+  {
+    "State/UT": "Andaman and Nicobar Islands",
+    "PC_Code": 1,
+    "PCName": "Andaman  and Nicobar Islands",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 1,
+    "PCName": "Adilabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 2,
+    "PCName": "Peddapalle",
+    "Alternate Spellings": ["Peddapalli"]
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 3,
+    "PCName": "Karimnagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 4,
+    "PCName": "Nizamabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 5,
+    "PCName": "Zahirabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 6,
+    "PCName": "Medak",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 7,
+    "PCName": "Malkajgiri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 8,
+    "PCName": "Secunderabad",
+    "Alternate Spellings": ["Secundrabad"]
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 9,
+    "PCName": "Hyderabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 10,
+    "PCName": "Chevella",
+    "Alternate Spellings": ["Chelvella"]
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 11,
+    "PCName": "Mahbubnagar",
+    "Alternate Spellings": ["Mahabubnagar", "Mahububnagar"]
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 12,
+    "PCName": "Nagarkurnool",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 13,
+    "PCName": "Nalgonda",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 14,
+    "PCName": "Bhongir",
+    "Alternate Spellings": ["Bhuvangiri", "Bhuvanagiri"]
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 15,
+    "PCName": "Warangal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 16,
+    "PCName": "Mahabubabad",
+    "Alternate Spellings": ["Mahbubabad"]
+  },
+  {
+    "State/UT": "Telangana",
+    "PC_Code": 17,
+    "PCName": "Khammam",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 1,
+    "PCName": "Araku",
+    "Alternate Spellings": ["Aruku"]
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 2,
+    "PCName": "Srikakulam",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 3,
+    "PCName": "Vizianagaram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 4,
+    "PCName": "Visakhapatnam",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 5,
+    "PCName": "Anakapalli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 6,
+    "PCName": "Kakinada",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 7,
+    "PCName": "Amalapuram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 8,
+    "PCName": "Rajahmundry",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 9,
+    "PCName": "Narasapuram",
+    "Alternate Spellings": ["Narsapuram"]
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 10,
+    "PCName": "Eluru",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 11,
+    "PCName": "Machilipatnam",
+    "Alternate Spellings": ["Machhilipatnam"]
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 12,
+    "PCName": "Vijayawada",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 13,
+    "PCName": "Guntur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 14,
+    "PCName": "Narasaraopet",
+    "Alternate Spellings": ["Narasaropet", "Narasaropeta", "Narasaraopeta"]
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 15,
+    "PCName": "Bapatla",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 16,
+    "PCName": "Ongole",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 17,
+    "PCName": "Nandyal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 18,
+    "PCName": "Kurnool",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 19,
+    "PCName": "Anantapur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 20,
+    "PCName": "Hindupur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 21,
+    "PCName": "Kadapa",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 22,
+    "PCName": "Nellore",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 23,
+    "PCName": "Tirupati",
+    "Alternate Spellings": ["Thirupathi", "Thirupati"]
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 24,
+    "PCName": "Rajampet",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Andhra Pradesh",
+    "PC_Code": 25,
+    "PCName": "Chittoor",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Arunachal Pradesh",
+    "PC_Code": 1,
+    "PCName": "Arunachal West",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Arunachal Pradesh",
+    "PC_Code": 2,
+    "PCName": "Arunachal East",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 1,
+    "PCName": "Kokrajhar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 2,
+    "PCName": "Dhubri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 3,
+    "PCName": "Barpeta",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 4,
+    "PCName": "Darrang-Udalguri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 5,
+    "PCName": "Guwahati",
+    "Alternate Spellings": ["Gauhati"]
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 6,
+    "PCName": "Diphu",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 7,
+    "PCName": "Karimganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 8,
+    "PCName": "Silchar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 9,
+    "PCName": "Nowgong",
+    "Alternate Spellings": ["Nagaon"]
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 10,
+    "PCName": "Kaziranga",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 11,
+    "PCName": "Sonitpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 12,
+    "PCName": "Lakhimpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 13,
+    "PCName": "Dibrugarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Assam",
+    "PC_Code": 14,
+    "PCName": "Jorhat",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 1,
+    "PCName": "Valmiki Nagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 2,
+    "PCName": "Paschim Champaran",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 3,
+    "PCName": "Purvi Champaran",
+    "Alternate Spellings": ["Purba Champaran", "Purbi Champaran"]
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 4,
+    "PCName": "Sheohar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 5,
+    "PCName": "Sitamarhi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 6,
+    "PCName": "Madhubani",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 7,
+    "PCName": "Jhanjharpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 8,
+    "PCName": "Supaul",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 9,
+    "PCName": "Araria",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 10,
+    "PCName": "Kishanganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 11,
+    "PCName": "Katihar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 12,
+    "PCName": "Purnia",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 13,
+    "PCName": "Madhepura",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 14,
+    "PCName": "Darbhanga",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 15,
+    "PCName": "Muzaffarpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 16,
+    "PCName": "Vaishali",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 17,
+    "PCName": "Gopalganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 18,
+    "PCName": "Siwan",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 19,
+    "PCName": "Maharajganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 20,
+    "PCName": "Saran",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 21,
+    "PCName": "Hajipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 22,
+    "PCName": "Ujiarpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 23,
+    "PCName": "Samastipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 24,
+    "PCName": "Begusarai",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 25,
+    "PCName": "Khagaria",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 26,
+    "PCName": "Bhagalpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 27,
+    "PCName": "Banka",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 28,
+    "PCName": "Munger",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 29,
+    "PCName": "Nalanda",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 30,
+    "PCName": "Patna Sahib",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 31,
+    "PCName": "Pataliputra",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 32,
+    "PCName": "Arrah",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 33,
+    "PCName": "Buxar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 34,
+    "PCName": "Sasaram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 35,
+    "PCName": "Karakat",
+    "Alternate Spellings": ["Kerakat"]
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 36,
+    "PCName": "Jahanabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 37,
+    "PCName": "Aurangabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 38,
+    "PCName": "Gaya",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 39,
+    "PCName": "Nawada",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Bihar",
+    "PC_Code": 40,
+    "PCName": "Jamui",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chandigarh",
+    "PC_Code": 1,
+    "PCName": "Chandigarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 1,
+    "PCName": "Surguja",
+    "Alternate Spellings": ["Sarguja"]
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 2,
+    "PCName": "Raigarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 3,
+    "PCName": "Janjgir-Champa",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 4,
+    "PCName": "Korba",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 5,
+    "PCName": "Bilaspur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 6,
+    "PCName": "Rajnandgaon",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 7,
+    "PCName": "Durg",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 8,
+    "PCName": "Raipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 9,
+    "PCName": "Mahasamund",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 10,
+    "PCName": "Bastar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Chhattisgarh",
+    "PC_Code": 11,
+    "PCName": "Kanker",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Dadra & Nagar Haveli and Daman and Diu",
+    "PC_Code": 1,
+    "PCName": "Dadra and Nagar Haveli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Dadra & Nagar Haveli and Daman and Diu",
+    "PC_Code": 2,
+    "PCName": "Daman and diu",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Goa",
+    "PC_Code": 1,
+    "PCName": "North Goa",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Goa",
+    "PC_Code": 2,
+    "PCName": "South Goa",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 1,
+    "PCName": "Kachchh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 2,
+    "PCName": "Banaskantha",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 3,
+    "PCName": "Patan",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 4,
+    "PCName": "Mahesana",
+    "Alternate Spellings": ["Mehsana"]
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 5,
+    "PCName": "Sabarkantha",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 6,
+    "PCName": "Gandhinagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 7,
+    "PCName": "Ahmedabad East",
+    "Alternate Spellings": ["Amdavad East"]
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 8,
+    "PCName": "Ahmedabad West",
+    "Alternate Spellings": ["Amdavad West"]
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 9,
+    "PCName": "Surendranagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 10,
+    "PCName": "Rajkot",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 11,
+    "PCName": "Porbandar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 12,
+    "PCName": "Jamnagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 13,
+    "PCName": "Junagadh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 14,
+    "PCName": "Amreli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 15,
+    "PCName": "Bhavnagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 16,
+    "PCName": "Anand",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 17,
+    "PCName": "Kheda",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 18,
+    "PCName": "Panchmahal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 19,
+    "PCName": "Dahod",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 20,
+    "PCName": "Vadodara",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 21,
+    "PCName": "Chhota Udaipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 22,
+    "PCName": "Bharuch",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 23,
+    "PCName": "Bardoli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 24,
+    "PCName": "Surat",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 25,
+    "PCName": "Navsari",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Gujarat",
+    "PC_Code": 26,
+    "PCName": "Valsad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 1,
+    "PCName": "Ambala",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 2,
+    "PCName": "Kurukshetra",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 3,
+    "PCName": "Sirsa",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 4,
+    "PCName": "Hisar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 5,
+    "PCName": "Karnal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 6,
+    "PCName": "Sonipat",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 7,
+    "PCName": "Rohtak",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 8,
+    "PCName": "Bhiwani-Mahendragarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 9,
+    "PCName": "Gurugram",
+    "Alternate Spellings": ["Gurgaon"]
+  },
+  {
+    "State/UT": "Haryana",
+    "PC_Code": 10,
+    "PCName": "Faridabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Himachal Pradesh",
+    "PC_Code": 1,
+    "PCName": "Kangra",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Himachal Pradesh",
+    "PC_Code": 2,
+    "PCName": "Mandi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Himachal Pradesh",
+    "PC_Code": 3,
+    "PCName": "Hamirpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Himachal Pradesh",
+    "PC_Code": 4,
+    "PCName": "Shimla",
+    "Alternate Spellings": ["Simla"]
+  },
+  {
+    "State/UT": "Jammu & Kashmir",
+    "PC_Code": 1,
+    "PCName": "Baramulla",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jammu & Kashmir",
+    "PC_Code": 2,
+    "PCName": "Srinagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jammu & Kashmir",
+    "PC_Code": 3,
+    "PCName": "Anantnag-Rajouri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jammu & Kashmir",
+    "PC_Code": 4,
+    "PCName": "Udhampur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jammu & Kashmir",
+    "PC_Code": 5,
+    "PCName": "Jammu",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Ladakh",
+    "PC_Code": 1,
+    "PCName": "Ladakh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 1,
+    "PCName": "Rajmahal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 2,
+    "PCName": "Dumka",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 3,
+    "PCName": "Godda",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 4,
+    "PCName": "Chatra",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 5,
+    "PCName": "Kodarma",
+    "Alternate Spellings": ["Koderma"]
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 6,
+    "PCName": "Giridih",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 7,
+    "PCName": "Dhanbad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 8,
+    "PCName": "Ranchi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 9,
+    "PCName": "Jamshedpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 10,
+    "PCName": "Singhbhum",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 11,
+    "PCName": "Khunti",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 12,
+    "PCName": "Lohardaga",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 13,
+    "PCName": "Palamau",
+    "Alternate Spellings": ["Palamu"]
+  },
+  {
+    "State/UT": "Jharkhand",
+    "PC_Code": 14,
+    "PCName": "Hazaribagh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 1,
+    "PCName": "Chikkodi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 2,
+    "PCName": "Belagavi",
+    "Alternate Spellings": ["Belgaum"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 3,
+    "PCName": "Bagalakote",
+    "Alternate Spellings": ["Bagalkot"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 4,
+    "PCName": "Vijayapura",
+    "Alternate Spellings": ["Bijapur"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 5,
+    "PCName": "Kalaburagi",
+    "Alternate Spellings": ["KalburgiGulbarga"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 6,
+    "PCName": "Raichur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 7,
+    "PCName": "Bidar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 8,
+    "PCName": "Koppal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 9,
+    "PCName": "Ballari",
+    "Alternate Spellings": ["Bellary"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 10,
+    "PCName": "Haveri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 11,
+    "PCName": "Dharwad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 12,
+    "PCName": "Uttara Kannada",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 13,
+    "PCName": "Davanagere",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 14,
+    "PCName": "Shivamogga",
+    "Alternate Spellings": ["Shimoga"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 15,
+    "PCName": "Udupi Chikkamagaluru",
+    "Alternate Spellings": ["Udupi Chikmagalur"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 16,
+    "PCName": "Hassan",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 17,
+    "PCName": "Dakshina Kannada",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 18,
+    "PCName": "Chitradurga",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 19,
+    "PCName": "Tumakuru",
+    "Alternate Spellings": ["Tumkur"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 20,
+    "PCName": "Mandya",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 21,
+    "PCName": "Mysuru",
+    "Alternate Spellings": ["Mysore"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 22,
+    "PCName": "Chamarajanagar",
+    "Alternate Spellings": ["Chamarajnagar"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 23,
+    "PCName": "Bengaluru Rural",
+    "Alternate Spellings": ["Bangalore Rural"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 24,
+    "PCName": "Bengaluru North",
+    "Alternate Spellings": ["Bangalore North"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 25,
+    "PCName": "Bengaluru Central",
+    "Alternate Spellings": ["Bangalore Central"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 26,
+    "PCName": "Bengaluru South",
+    "Alternate Spellings": ["Bangalore South"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 27,
+    "PCName": "Chikkaballapur",
+    "Alternate Spellings": ["Chikkballapur", "Chikballapur"]
+  },
+  {
+    "State/UT": "Karnataka",
+    "PC_Code": 28,
+    "PCName": "Kolar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 1,
+    "PCName": "Kasaragod",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 2,
+    "PCName": "Kannur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 3,
+    "PCName": "Vadakara",
+    "Alternate Spellings": ["Vatakara"]
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 4,
+    "PCName": "Wayanad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 5,
+    "PCName": "Kozhikode",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 6,
+    "PCName": "Malappuram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 7,
+    "PCName": "Ponnani",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 8,
+    "PCName": "Palakkad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 9,
+    "PCName": "Alathur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 10,
+    "PCName": "Thrissur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 11,
+    "PCName": "Chalakudy",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 12,
+    "PCName": "Ernakulam",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 13,
+    "PCName": "Idukki",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 14,
+    "PCName": "Kottayam",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 15,
+    "PCName": "Alappuzha",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 16,
+    "PCName": "Mavelikkara",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 17,
+    "PCName": "Pathanamthitta",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 18,
+    "PCName": "Kollam",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 19,
+    "PCName": "Attingal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Kerala",
+    "PC_Code": 20,
+    "PCName": "Thiruvananthapuram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Lakshadweep",
+    "PC_Code": 1,
+    "PCName": "Lakshadweep",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 1,
+    "PCName": "Morena",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 2,
+    "PCName": "Bhind",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 3,
+    "PCName": "Gwalior",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 4,
+    "PCName": "Guna",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 5,
+    "PCName": "Sagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 6,
+    "PCName": "Tikamgarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 7,
+    "PCName": "Damoh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 8,
+    "PCName": "Khajuraho",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 9,
+    "PCName": "Satna",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 10,
+    "PCName": "Rewa",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 11,
+    "PCName": "Sidhi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 12,
+    "PCName": "Shahdol",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 13,
+    "PCName": "Jabalpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 14,
+    "PCName": "Mandla",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 15,
+    "PCName": "Balaghat",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 16,
+    "PCName": "Chhindwara",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 17,
+    "PCName": "Hoshangabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 18,
+    "PCName": "Vidisha",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 19,
+    "PCName": "Bhopal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 20,
+    "PCName": "Rajgarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 21,
+    "PCName": "Dewas",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 22,
+    "PCName": "Ujjain",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 23,
+    "PCName": "Mandsaur",
+    "Alternate Spellings": ["Mandsour"]
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 24,
+    "PCName": "Ratlam",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 25,
+    "PCName": "Dharwad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 26,
+    "PCName": "Indore",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 27,
+    "PCName": "Khargone",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 28,
+    "PCName": "Khandwa",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Madhya Pradesh",
+    "PC_Code": 29,
+    "PCName": "Betul",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 1,
+    "PCName": "Nandurbar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 2,
+    "PCName": "Dhule",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 3,
+    "PCName": "Jalgaon",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 4,
+    "PCName": "Raver",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 5,
+    "PCName": "Buldhana",
+    "Alternate Spellings": ["Buldana"]
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 6,
+    "PCName": "Akola",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 7,
+    "PCName": "Amravati",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 8,
+    "PCName": "Wardha",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 9,
+    "PCName": "Ramtek",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 10,
+    "PCName": "Nagpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 11,
+    "PCName": "Bhandara-Gondiya",
+    "Alternate Spellings": ["Bhandara-Gondia"]
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 12,
+    "PCName": "Gadchiroli-Chimur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 13,
+    "PCName": "Chandrapur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 14,
+    "PCName": "Yavatmal-Washim",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 15,
+    "PCName": "Hingoli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 16,
+    "PCName": "Nanded",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 17,
+    "PCName": "Parbhani",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 18,
+    "PCName": "Jalna",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 19,
+    "PCName": "Sambhajinagar",
+    "Alternate Spellings": ["Aurangabad"]
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 20,
+    "PCName": "Dindori",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 21,
+    "PCName": "Nashik",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 22,
+    "PCName": "Palghar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 23,
+    "PCName": "Bhiwandi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 24,
+    "PCName": "Kalyan",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 25,
+    "PCName": "Thane",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 26,
+    "PCName": "Mumbai North",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 27,
+    "PCName": "Mumbai North West",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 28,
+    "PCName": "Mumbai North East",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 29,
+    "PCName": "Mumbai North Central",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 30,
+    "PCName": "Mumbai South Central",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 31,
+    "PCName": "Mumbai South",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 32,
+    "PCName": "Raigad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 33,
+    "PCName": "Maval",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 34,
+    "PCName": "Pune",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 35,
+    "PCName": "Baramati",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 36,
+    "PCName": "Shirur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 37,
+    "PCName": "Ahmadnagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 38,
+    "PCName": "Shirdi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 39,
+    "PCName": "Beed",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 40,
+    "PCName": "Dharashiv",
+    "Alternate Spellings": ["Osmanabad"]
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 41,
+    "PCName": "Latur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 42,
+    "PCName": "Solapur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 43,
+    "PCName": "Madha",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 44,
+    "PCName": "Sangli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 45,
+    "PCName": "Satara",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 46,
+    "PCName": "Ratnagiri-Sindhudurg",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 47,
+    "PCName": "Kolhapur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Maharashtra",
+    "PC_Code": 48,
+    "PCName": "Hatkanangle",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Manipur",
+    "PC_Code": 1,
+    "PCName": "Inner Manipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Manipur",
+    "PC_Code": 2,
+    "PCName": "Outer Manipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Meghalaya",
+    "PC_Code": 1,
+    "PCName": "Shillong",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Meghalaya",
+    "PC_Code": 2,
+    "PCName": "Tura",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Mizoram",
+    "PC_Code": 1,
+    "PCName": "Mizoram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Nagaland",
+    "PC_Code": 1,
+    "PCName": "Nagaland",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "NCT OF Delhi",
+    "PC_Code": 1,
+    "PCName": "Chandni Chowk",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "NCT OF Delhi",
+    "PC_Code": 2,
+    "PCName": "North East Delhi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "NCT OF Delhi",
+    "PC_Code": 3,
+    "PCName": "East Delhi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "NCT OF Delhi",
+    "PC_Code": 4,
+    "PCName": "New Delhi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "NCT OF Delhi",
+    "PC_Code": 5,
+    "PCName": "North West Delhi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "NCT OF Delhi",
+    "PC_Code": 6,
+    "PCName": "West Delhi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "NCT OF Delhi",
+    "PC_Code": 7,
+    "PCName": "South Delhi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 1,
+    "PCName": "Bargarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 2,
+    "PCName": "Sundargarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 3,
+    "PCName": "Sambalpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 4,
+    "PCName": "Keonjhar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 5,
+    "PCName": "Mayurbhanj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 6,
+    "PCName": "Balasore",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 7,
+    "PCName": "Bhadrak",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 8,
+    "PCName": "Jajpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 9,
+    "PCName": "Dhenkanal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 10,
+    "PCName": "Bolangir",
+    "Alternate Spellings": ["Balangir"]
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 11,
+    "PCName": "Kalahandi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 12,
+    "PCName": "Nabarangpur",
+    "Alternate Spellings": ["Nabrangpur"]
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 13,
+    "PCName": "Kandhamal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 14,
+    "PCName": "Cuttack",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 15,
+    "PCName": "Kendrapara",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 16,
+    "PCName": "Jagatsinghpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 17,
+    "PCName": "Puri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 18,
+    "PCName": "Bhubaneswar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 19,
+    "PCName": "Aska",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 20,
+    "PCName": "Berhampur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Odisha",
+    "PC_Code": 21,
+    "PCName": "Koraput",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Puducherry",
+    "PC_Code": 1,
+    "PCName": "Puducherry",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 1,
+    "PCName": "Gurdaspur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 2,
+    "PCName": "Amritsar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 3,
+    "PCName": "Khadoor Sahib",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 4,
+    "PCName": "Jalandhar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 5,
+    "PCName": "Hoshiarpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 6,
+    "PCName": "Anandpur Sahib",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 7,
+    "PCName": "Ludhiana",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 8,
+    "PCName": "Fatehgarh Sahib",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 9,
+    "PCName": "Faridkot",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 10,
+    "PCName": "Firozpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 11,
+    "PCName": "Bathinda",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 12,
+    "PCName": "Sangrur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Punjab",
+    "PC_Code": 13,
+    "PCName": "Patiala",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 1,
+    "PCName": "Ganganagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 2,
+    "PCName": "Bikaner",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 3,
+    "PCName": "Churu",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 4,
+    "PCName": "Jhunjhunu",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 5,
+    "PCName": "Sikar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 6,
+    "PCName": "Jaipur Rural",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 7,
+    "PCName": "Jaipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 8,
+    "PCName": "Alwar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 9,
+    "PCName": "Bharatpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 10,
+    "PCName": "Karauli-Dholpur",
+    "Alternate Spellings": ["Karauli-Dhaulpur"]
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 11,
+    "PCName": "Dausa",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 12,
+    "PCName": "Tonk-Sawai Madhopur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 13,
+    "PCName": "Ajmer",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 14,
+    "PCName": "Nagaur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 15,
+    "PCName": "Pali",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 16,
+    "PCName": "Jodhpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 17,
+    "PCName": "Barmer",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 18,
+    "PCName": "Jalore",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 19,
+    "PCName": "Udaipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 20,
+    "PCName": "Banswara",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 21,
+    "PCName": "Chittorgarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 22,
+    "PCName": "Rajsamand",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 23,
+    "PCName": "Bhilwara",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 24,
+    "PCName": "Kota",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Rajasthan",
+    "PC_Code": 25,
+    "PCName": "Jhalawar-Baran",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Sikkim",
+    "PC_Code": 1,
+    "PCName": "Sikkim",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 1,
+    "PCName": "Thiruvallur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 2,
+    "PCName": "Chennai North",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 3,
+    "PCName": "Chennai South",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 4,
+    "PCName": "Chennai Central",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 5,
+    "PCName": "Sriperumbudur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 6,
+    "PCName": "Kancheepuram",
+    "Alternate Spellings": ["Kanchipuram"]
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 7,
+    "PCName": "Arakkonam",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 8,
+    "PCName": "Vellore",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 9,
+    "PCName": "Krishnagiri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 10,
+    "PCName": "Dharmapuri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 11,
+    "PCName": "Tiruvannamalai",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 12,
+    "PCName": "Arani",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 13,
+    "PCName": "Viluppuram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 14,
+    "PCName": "Kallakurichi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 15,
+    "PCName": "Salem",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 16,
+    "PCName": "Namakkal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 17,
+    "PCName": "Erode",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 18,
+    "PCName": "Tiruppur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 19,
+    "PCName": "Nilgiris",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 20,
+    "PCName": "Coimbatore",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 21,
+    "PCName": "Pollachi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 22,
+    "PCName": "Dindigul",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 23,
+    "PCName": "Karur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 24,
+    "PCName": "Tiruchirappalli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 25,
+    "PCName": "Perambalur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 26,
+    "PCName": "Cuddalore",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 27,
+    "PCName": "Chidambaram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 28,
+    "PCName": "Mayiladuthurai",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 29,
+    "PCName": "Nagapattinam",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 30,
+    "PCName": "Thanjavur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 31,
+    "PCName": "Sivaganga",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 32,
+    "PCName": "Madurai",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 33,
+    "PCName": "Theni",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 34,
+    "PCName": "Virudhunagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 35,
+    "PCName": "Ramanathapuram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 36,
+    "PCName": "Thoothukkudi",
+    "Alternate Spellings": ["Thoothukudi"]
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 37,
+    "PCName": "Tenkasi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 38,
+    "PCName": "Tirunelveli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tamil Nadu",
+    "PC_Code": 39,
+    "PCName": "Kanniyakumari",
+    "Alternate Spellings": ["Kanyakumari"]
+  },
+  {
+    "State/UT": "Tripura",
+    "PC_Code": 1,
+    "PCName": "Tripura West",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Tripura",
+    "PC_Code": 2,
+    "PCName": "Tripura East",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 1,
+    "PCName": "Saharanpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 2,
+    "PCName": "Kairana",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 3,
+    "PCName": "Muzaffarnagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 4,
+    "PCName": "Bijnor",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 5,
+    "PCName": "Nagina",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 6,
+    "PCName": "Moradabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 7,
+    "PCName": "Rampur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 8,
+    "PCName": "Sambhal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 9,
+    "PCName": "Amroha",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 10,
+    "PCName": "Meerut",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 11,
+    "PCName": "Baghpat",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 12,
+    "PCName": "Ghaziabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 13,
+    "PCName": "Gautam Buddh Nagar",
+    "Alternate Spellings": ["Gautam Buddha Nagar"]
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 14,
+    "PCName": "Bulandshahr",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 15,
+    "PCName": "Aligarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 16,
+    "PCName": "Hathras",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 17,
+    "PCName": "Mathura",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 18,
+    "PCName": "Agra",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 19,
+    "PCName": "Fatehpur Sikri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 20,
+    "PCName": "Firozabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 21,
+    "PCName": "Mainpuri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 22,
+    "PCName": "Etah",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 23,
+    "PCName": "Badaun",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 24,
+    "PCName": "Aonla",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 25,
+    "PCName": "Bareilly",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 26,
+    "PCName": "Pilibhit",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 27,
+    "PCName": "Shahjahanpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 28,
+    "PCName": "Kheri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 29,
+    "PCName": "Dhaurahra",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 30,
+    "PCName": "Sitapur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 31,
+    "PCName": "Hardoi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 32,
+    "PCName": "Misrikh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 33,
+    "PCName": "Unnao",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 34,
+    "PCName": "Mohanlalganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 35,
+    "PCName": "Lucknow",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 36,
+    "PCName": "Rae Bareli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 37,
+    "PCName": "Amethi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 38,
+    "PCName": "Sultanpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 39,
+    "PCName": "Pratapgarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 40,
+    "PCName": "Farrukhabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 41,
+    "PCName": "Etawah",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 42,
+    "PCName": "Kannauj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 43,
+    "PCName": "Kanpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 44,
+    "PCName": "Akbarpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 45,
+    "PCName": "Jalaun",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 46,
+    "PCName": "Jhansi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 47,
+    "PCName": "Hamirpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 48,
+    "PCName": "Banda",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 49,
+    "PCName": "Fatehpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 50,
+    "PCName": "Kaushambi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 51,
+    "PCName": "Phulpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 52,
+    "PCName": "Prayagraj",
+    "Alternate Spellings": ["Allahabad"]
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 53,
+    "PCName": "Barabanki",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 54,
+    "PCName": "Ayodhya",
+    "Alternate Spellings": ["Faizabad"]
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 55,
+    "PCName": "Ambedkar Nagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 56,
+    "PCName": "Bahraich",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 57,
+    "PCName": "Kaiserganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 58,
+    "PCName": "Shrawasti",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 59,
+    "PCName": "Gonda",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 60,
+    "PCName": "Domariyaganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 61,
+    "PCName": "Basti",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 62,
+    "PCName": "Sant Kabir Nagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 63,
+    "PCName": "Maharajganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 64,
+    "PCName": "Gorakhpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 65,
+    "PCName": "Kushi Nagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 66,
+    "PCName": "Deoria",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 67,
+    "PCName": "Bansgaon",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 68,
+    "PCName": "Lalganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 69,
+    "PCName": "Azamgarh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 70,
+    "PCName": "Ghosi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 71,
+    "PCName": "Salempur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 72,
+    "PCName": "Ballia",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 73,
+    "PCName": "Jaunpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 74,
+    "PCName": "Machhlishahr",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 75,
+    "PCName": "Ghazipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 76,
+    "PCName": "Chandauli",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 77,
+    "PCName": "Varanasi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 78,
+    "PCName": "Bhadohi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 79,
+    "PCName": "Mirzapur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttar Pradesh",
+    "PC_Code": 80,
+    "PCName": "Robertsganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttarakhand",
+    "PC_Code": 1,
+    "PCName": "Tehri Garhwal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttarakhand",
+    "PC_Code": 2,
+    "PCName": "Garhwal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttarakhand",
+    "PC_Code": 3,
+    "PCName": "Almora",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttarakhand",
+    "PC_Code": 4,
+    "PCName": "Nainital-Udhamsingh Nagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "Uttarakhand",
+    "PC_Code": 5,
+    "PCName": "Hardwar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 1,
+    "PCName": "Cooch Behar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 2,
+    "PCName": "Alipurduars",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 3,
+    "PCName": "Jalpaiguri",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 4,
+    "PCName": "Darjeeling",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 5,
+    "PCName": "Raiganj",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 6,
+    "PCName": "Balurghat",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 7,
+    "PCName": "Maldaha Uttar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 8,
+    "PCName": "Maldaha Dakshin",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 9,
+    "PCName": "Jangipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 10,
+    "PCName": "Baharampur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 11,
+    "PCName": "Murshidabad",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 12,
+    "PCName": "Krishnanagar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 13,
+    "PCName": "Ranaghat",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 14,
+    "PCName": "Bangaon",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 15,
+    "PCName": "Barrackpore",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 16,
+    "PCName": "Dum Dum",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 17,
+    "PCName": "Barasat",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 18,
+    "PCName": "Basirhat",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 19,
+    "PCName": "Jaynagar",
+    "Alternate Spellings": ["Joynagar"]
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 20,
+    "PCName": "Mathurapur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 21,
+    "PCName": "Diamond harbour",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 22,
+    "PCName": "Jadavpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 23,
+    "PCName": "Kolkata Dakshin",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 24,
+    "PCName": "Kolkata Uttar",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 25,
+    "PCName": "Howrah",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 26,
+    "PCName": "Uluberia",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 27,
+    "PCName": "Sreerampur",
+    "Alternate Spellings": ["Srerampur", "Serampur", "Serampore"]
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 28,
+    "PCName": "Hooghly",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 29,
+    "PCName": "Arambagh",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 30,
+    "PCName": "Tamluk",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 31,
+    "PCName": "Kanthi",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 32,
+    "PCName": "Ghatal",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 33,
+    "PCName": "Jhargram",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 34,
+    "PCName": "Medinipur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 35,
+    "PCName": "Purulia",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 36,
+    "PCName": "Bankura",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 37,
+    "PCName": "Bishnupur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 38,
+    "PCName": "Bardhaman Purba",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 39,
+    "PCName": "Burdwan-Durgapur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 40,
+    "PCName": "Asansol",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 41,
+    "PCName": "Bolpur",
+    "Alternate Spellings": []
+  },
+  {
+    "State/UT": "West Bengal",
+    "PC_Code": 42,
+    "PCName": "Birbhum",
+    "Alternate Spellings": []
+  }
+]
