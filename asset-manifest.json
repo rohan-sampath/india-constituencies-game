@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rohan-sampath/india-constituencies-game/static/css/main.bf639f62.css",
-    "main.js": "/rohan-sampath/india-constituencies-game/static/js/main.407e9cfa.js",
-    "static/js/453.db2b768d.chunk.js": "/rohan-sampath/india-constituencies-game/static/js/453.db2b768d.chunk.js",
-    "index.html": "/rohan-sampath/india-constituencies-game/index.html",
-    "main.bf639f62.css.map": "/rohan-sampath/india-constituencies-game/static/css/main.bf639f62.css.map",
-    "main.407e9cfa.js.map": "/rohan-sampath/india-constituencies-game/static/js/main.407e9cfa.js.map",
-    "453.db2b768d.chunk.js.map": "/rohan-sampath/india-constituencies-game/static/js/453.db2b768d.chunk.js.map"
+    "main.css": "/india-constituencies-game/static/css/main.bf639f62.css",
+    "main.js": "/india-constituencies-game/static/js/main.d1374bc3.js",
+    "static/js/453.db2b768d.chunk.js": "/india-constituencies-game/static/js/453.db2b768d.chunk.js",
+    "index.html": "/india-constituencies-game/index.html",
+    "main.bf639f62.css.map": "/india-constituencies-game/static/css/main.bf639f62.css.map",
+    "main.d1374bc3.js.map": "/india-constituencies-game/static/js/main.d1374bc3.js.map",
+    "453.db2b768d.chunk.js.map": "/india-constituencies-game/static/js/453.db2b768d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf639f62.css",
-    "static/js/main.407e9cfa.js"
+    "static/js/main.d1374bc3.js"
   ]
 }
