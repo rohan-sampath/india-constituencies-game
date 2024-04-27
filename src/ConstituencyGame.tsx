@@ -4,16 +4,11 @@ import { TextInput, Image, Title, Stack, Table } from "@mantine/core";
 interface Constituency {
   "State/UT": string;
   PCName: string;
+  "Alternate Spellings": string[];
 }
 
 const ConstituencyGame: React.FC = () => {
   const [input, setInput] = useState<string>("");
-  const [formattedConstituencies, setFormattedConstituencies] = useState<
-    string[]
-  >([]);
-  const [regularConstituencies, setRegularConstituencies] = useState<string[]>(
-    []
-  );
   const [correctGuesses, setCorrectGuesses] = useState<{
     [state: string]: string[];
   }>({});
@@ -29,10 +24,6 @@ const ConstituencyGame: React.FC = () => {
       .then((response) => response.json())
       .then((loadedData) => {
         const constituencyData = loadedData as Constituency[];
-        const formattedList = constituencyData.map((c) => formatName(c.PCName));
-        const regularList = constituencyData.map((c) => c.PCName);
-        setFormattedConstituencies(formattedList);
-        setRegularConstituencies(regularList);
         setData(constituencyData);
       })
       .catch((error) => console.error("Error loading JSON:", error));
@@ -45,11 +36,18 @@ const ConstituencyGame: React.FC = () => {
       [state: string]: string[];
     } = {};
 
-    // First, determine all new guesses and prepare updated state
-    formattedConstituencies.forEach((constituency, index) => {
-      if (constituency === formattedInput) {
-        const state = data[index]["State/UT"];
-        const constituencyName = regularConstituencies[index];
+    data.forEach((constituency) => {
+      const formattedConstituency = formatName(constituency.PCName);
+      const formattedAlternateSpellings = constituency[
+        "Alternate Spellings"
+      ].map((spelling: string) => formatName(spelling));
+
+      if (
+        formattedConstituency === formattedInput ||
+        formattedAlternateSpellings.includes(formattedInput)
+      ) {
+        const state = constituency["State/UT"];
+        const constituencyName = constituency.PCName;
         const guessesForState = correctGuesses[state] || [];
 
         if (!guessesForState.includes(constituencyName)) {
@@ -61,7 +59,6 @@ const ConstituencyGame: React.FC = () => {
       }
     });
 
-    // Now, if there are new guesses, update the states once
     if (newGuesses > 0) {
       setCorrectGuesses((prev) => ({
         ...prev,
@@ -70,27 +67,28 @@ const ConstituencyGame: React.FC = () => {
       setCorrectCount((prevCount) => prevCount + newGuesses);
       setInput("");
     }
-  }, [
-    input,
-    formattedConstituencies,
-    correctGuesses,
-    regularConstituencies,
-    data,
-  ]);
+  }, [input, correctGuesses, data]);
 
   const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     const newInput = event.currentTarget.value;
     setInput(newInput);
   };
 
+  const getTotalConstituenciesInState = (state: string) => {
+    return data.filter((constituency) => constituency["State/UT"] === state)
+      .length;
+  };
+
   const rows = Object.entries(correctGuesses)
     .sort(([stateA], [stateB]) => stateA.localeCompare(stateB))
     .map(([state, guesses]) => (
-      <tr key={state}>
-        <td>{state}</td>
-        <td>{guesses.length}</td>
-        <td>{guesses.join(", ")}</td>
-      </tr>
+      <Table.Tr key={state}>
+        <Table.Td style={{ width: 200 }}>{state}</Table.Td>
+        <Table.Td style={{ width: 200, textAlign: "center" }}>
+          {guesses.length} / {getTotalConstituenciesInState(state)}
+        </Table.Td>
+        <Table.Td style={{ maxWidth: 800 }}>{guesses.join(", ")}</Table.Td>
+      </Table.Tr>
     ));
 
   return (
@@ -99,7 +97,7 @@ const ConstituencyGame: React.FC = () => {
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
-        justifyContent: "center", // Optional, if you also want vertical centering
+        justifyContent: "center",
         marginTop: 50,
         marginLeft: 50,
         marginRight: 50,
@@ -108,7 +106,7 @@ const ConstituencyGame: React.FC = () => {
     >
       <Image src="/emblem_of_india.svg" alt="Emblem of India" w={100} />
       <Title order={1} style={{ marginBottom: "1rem" }}>
-        Guess the Lok Sabha Constituencies Game
+        Guess the Lok Sabha Constituencies!
       </Title>
       <TextInput
         size="md"
@@ -124,19 +122,19 @@ const ConstituencyGame: React.FC = () => {
           maxWidth: "500px",
         }}
       />
-      <Title order={3}>
-        Correctly Guessed Constituencies: {correctCount} / 543
-      </Title>
+      <Title order={2}>{correctCount} / 543</Title>
       <Stack style={{ marginTop: 20 }}>
-        <Table>
-          <thead>
-            <tr>
-              <th>State/UT</th>
-              <th># of Correct Guesses</th>
-              <th>Constituencies Guessed</th>
-            </tr>
-          </thead>
-          <tbody>{rows}</tbody>
+        <Table highlightOnHover>
+          <Table.Thead>
+            <Table.Tr>
+              <Table.Th style={{ width: 200 }}>State/UT</Table.Th>
+              <Table.Th style={{ width: 200 }}># Correct / # Total</Table.Th>
+              <Table.Th style={{ maxWidth: 800 }}>
+                Constituencies Guessed
+              </Table.Th>
+            </Table.Tr>
+          </Table.Thead>
+          <Table.Tbody>{rows}</Table.Tbody>
         </Table>
       </Stack>
     </Stack>
